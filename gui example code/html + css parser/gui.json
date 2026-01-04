@@ -1,0 +1,8 @@
+{
+    "button" : {
+        "style" : {
+            "text-col" : "(255,255,255,255)"
+        },
+        "text" : "_Default Text_"
+    }
+}
